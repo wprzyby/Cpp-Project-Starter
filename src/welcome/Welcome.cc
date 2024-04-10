@@ -17,4 +17,4 @@
  * @brief Prints out welcome message.
  * 
  */
-void welcome() { std::cout << "Someday this will become HoMM3\n"; }
+void welcome() { std::cout << "Hello, user!\n"; }
