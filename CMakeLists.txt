@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.24)
 
-project(HoMMybeer3)
+project(ProjectStarter)
 
 include(cmake/FetchGitLib.cmake)
 
