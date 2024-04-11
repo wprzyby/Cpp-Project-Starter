@@ -24,5 +24,5 @@ TBD (you can most likely install all of the necessary packages via your package 
 
 ## Authors
 
-- Wojciech Przybylski @wprzyby1 wojciech.przybylski2.stud@pw.edu.pl
+- Wojciech Przybylski @wprzyby wojciech.przybylski2.stud@pw.edu.pl
 
